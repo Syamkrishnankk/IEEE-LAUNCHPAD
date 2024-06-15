@@ -2,7 +2,7 @@
 
 ### About Me
 
->Dedicated and skilled UI/UX designer with a strong background in graphic design and management. I have a keen eye for detail and a logical approach to problem-solving. I am proficient in HTML, CSS, JavaScript, React.js, and Bootstrap. My experience includes developing website frontends, creating interactive user interfaces, and adding animation effects to enhance user experience.
+>Dedicated and skilled Front-end developer and UI/UX designer with a strong background in graphic design and management. I have a keen eye for detail and a logical approach to problem-solving. I am proficient in HTML, CSS, JavaScript, React.js, and Bootstrap. My experience includes developing website frontends, creating interactive user interfaces, and adding animation effects to enhance user experience.
 
 
 ## Portfolio Highlights
