@@ -20,4 +20,7 @@
 - **Placement Cell - Duty head of Event Management**
 - **IEEE SB CEM - Design Lead (2023-2024), PES Chair (2022-2023), MDC Chair (2021-2022)**
 
+  
+>> Linkedin Profile [Syam Krishnan K K](https://www.linkedin.com/in/syam-krishnan-k-k/)
+>> Portfolio Website [Syam Krishnan K K](https://syamkrishnankk.github.io/Portfolio/)
 
